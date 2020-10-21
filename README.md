@@ -48,7 +48,7 @@ This is a 2D platformer game with a colorful design. Every stage will be colorfu
 # Technical Description
 The game will be Mobile Cross-Platform: iOS, Android, Windows Phone. Can also be played in PCs using emulators.
 
-Controls
+* # Controls
 - "F" key + left arrow key = west bullet direction
 - "F" key + right arrow key = east bullet direction
 - "F" key + up arrow key = north bullet direction
@@ -57,7 +57,7 @@ Controls
 - right arrow key = move right
 - "W" key = jump
 
-* Fonts:
+* # Fonts:
 - shortstack
 
 ![shortStack](https://user-images.githubusercontent.com/73202856/96670616-56f54680-1392-11eb-8dbb-1498c85aa721.png)
@@ -68,7 +68,7 @@ Controls
 
 - Rayman Adventures (logo font)
 
-* Audio/Music:
+* # Audio/Music:
 - Adventure.mp3 and Adventure.ogg
 - AdventureHO2.mp3 and AdventureHO2.ogg
 - epic loop.mp3 and epic loop.ogg
@@ -76,7 +76,7 @@ Controls
 - Scary-Monster.mp3 and Scary-Monster.ogg
 - Dark Rooms and Scary Things - isaiah658_1.mp3 and Dark Rooms and Scary Things - isaiah658_1.ogg
 
-* Graphics:
+* # Graphics:
 1. Characters
 1.1 Hero
 - Noy Pilegro (idle, running, jumping)
