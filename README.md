@@ -67,15 +67,15 @@ Controls - Clicking mouse for attack, “A”, “D” and “W” for mobility.
 
 * Graphics:
 1. Characters
-a. Hero
+1.1 Hero
 - Noy Pilegro (idle, running, jumping)
-b. Others
+1.2 Others
 - Ghost (floating)
 - Tikbalang (walking)
 - Manananggal (flying)
 
 2. Blocks
-a. Ground Platform
+- Ground Platform
 
 3. Ambient (Background)
 - Country Field
