@@ -94,7 +94,3 @@ Age: 8 to 60, Sex: Everyone, Casual
 
 # Platforms & Monetization
 Free android app with in-game ads, and paid version without ads. Free iOS with ads. Paid iOS version without ads. In game purchases.
-
-Most of the mp3 and ogg assets are downloaded from opengameart.org, its nice if you visit it.
-Wav assets was created and are exported from bxfr sound app.
-All codes are based from our labwork lessons "Zenva Runner" Phaser2.
