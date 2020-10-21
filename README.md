@@ -54,19 +54,46 @@ The game will be Mobile Cross-Platform: iOS, Android, Windows Phone. Can also be
 Controls - Clicking mouse for attack, “A”, “D” and “W” for mobility. You can also interact with weapons for attack use and dialogues for strategy use.
 
 * Fonts:
-shortStack.png and shortStack.xml
-Rayman Adventures (logo font)
+- shortStack.png and shortStack.xml
+- Rayman Adventures (logo font)
 
 * Audio/Music:
-1. Adventure.mp3 and Adventure.ogg
-2. AdventureHO2.mp3 and AdventureHO2.ogg
-3. epic loop.mp3 and epic loop.ogg
-4. Superhero_SuperHero_original_no_Intro.mp3 and SuperHero_original_no_Intro.ogg
-5. Scary-Monster.mp3 and Scary-Monster.ogg
-6. Dark Rooms and Scary Things - isaiah658_1.mp3 and Dark Rooms and Scary Things - isaiah658_1.ogg
+- Adventure.mp3 and Adventure.ogg
+- AdventureHO2.mp3 and AdventureHO2.ogg
+- epic loop.mp3 and epic loop.ogg
+- Superhero_SuperHero_original_no_Intro.mp3 and SuperHero_original_no_Intro.ogg
+- Scary-Monster.mp3 and Scary-Monster.ogg
+- Dark Rooms and Scary Things - isaiah658_1.mp3 and Dark Rooms and Scary Things - isaiah658_1.ogg
 
 * Graphics:
+1. Characters
+a. Hero
+- Noy Pilegro (idle, running, jumping)
+b. Others
+- Ghost (floating)
+- Tikbalang (walking)
+- Manananggal (flying)
 
+2. Blocks
+a. Ground Platform
+
+3. Ambient (Background)
+- Country Field
+- Forest
+- Cemetery
+
+4. Others
+- Moving Platform
+- Portal
+- Web
+- Coffin
+- Bullets
+
+# Demographics
+Age: 8 to 60, Sex: Everyone, Casual
+
+# Platforms & Monetization
+Free android app with in-game ads, and paid version without ads. Free iOS with ads. Paid iOS version without ads. In game purchases.
 
 Most of the mp3 and ogg assets are downloaded from opengameart.org, its nice if you visit it.
 Wav assets was created and are exported from bxfr sound app.
