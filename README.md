@@ -27,10 +27,7 @@ This game design document describes the details for a multi-platform based 2D si
 # Story
 Noy Pilegro is happily living with his family inside their peaceful town when sudden incidents of a missing person starts occurring. Because Noy was faithful with the Church, he was tasked to investigate how those people disappeared. Noy discovered that hostile entities was involved in the incident for he had experienced it too when he was lost in the forest searching for them, now he has to escape or he will be trapped in the entities' world.
 
-# Theme
-This game is about bravery and adventure into the unknown. There will be action, rewarding moments and wise use of the environment. Each stage progression will make the player stronger and wiser.
-
-# Gameplay
+# Theme /Gameplay
 This game is about bravery and adventure into the unknown. There will be action, rewarding moments and wise use of the environment. Each stage progression will make the player stronger and wiser.
 
 * Goal: Escape through the portal. Gameplay(short term): Find a way to get into the portal because it is placed in a tricky position.
