@@ -5,7 +5,7 @@
 https://drive.google.com/file/d/17cMEr0Md7zK5NnEUzGcN04Zjk7LMDjcW/view?usp=sharing
 
 # Game Google Drive Link:
-https://drive.google.com/file/d/17cMEr0Md7zK5NnEUzGcN04Zjk7LMDjcW/view?usp=sharing
+https://drive.google.com/drive/folders/1WAKdr8bCxH4Ga-lCMewattR7bVsuCGSz?usp=sharing
 
 # Project Description
 This game design document describes the details for a multi-platform based 2D side scrolling platformer game where players run left to right to reach the goal. This platformer game enables the character to jump across platforms, fight with melee weapons or shoot with ranged ones in order to fend-off against enemies.
