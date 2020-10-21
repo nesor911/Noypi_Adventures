@@ -87,10 +87,12 @@ The game will be Mobile Cross-Platform: iOS, Android, Windows Phone. Can also be
 - Manananggal (flying)
 
 2. Blocks
+
 ![platform](https://user-images.githubusercontent.com/73202856/96674701-f408ad00-139b-11eb-915d-7a226e81df46.png)
 
 3. Ambient (Background)
--Country/Rural
+
+- Country/Rural
 ![1_game_background](https://user-images.githubusercontent.com/73202856/96674854-39c57580-139c-11eb-80e2-e6ee964b7eda.png)
 
 - Forest
@@ -101,11 +103,26 @@ The game will be Mobile Cross-Platform: iOS, Android, Windows Phone. Can also be
 
 
 4. Others
-- Moving Platform
+
 - Portal
+
+![portal](https://user-images.githubusercontent.com/73202856/96675065-aa6c9200-139c-11eb-8c6f-f3aa994aa78a.png)
+
 - Web
+
+![web](https://user-images.githubusercontent.com/73202856/96675184-f91a2c00-139c-11eb-8fe1-b030c31be4b6.png)
+
 - Coffin
-- Bullets
+
+![coffin](https://user-images.githubusercontent.com/73202856/96675212-07684800-139d-11eb-8884-edfc06b905ba.png)
+
+- Bullet
+
+![bullet](https://user-images.githubusercontent.com/73202856/96675360-50b89780-139d-11eb-8195-9887bd453e6a.png)
+
+- Coin
+
+![coins](https://user-images.githubusercontent.com/73202856/96675369-53b38800-139d-11eb-8879-513f0dbad54a.png)
 
 # Demographics
 Age: 8 to 60, Sex: Everyone, Casual
