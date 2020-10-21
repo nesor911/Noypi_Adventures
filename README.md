@@ -87,12 +87,18 @@ The game will be Mobile Cross-Platform: iOS, Android, Windows Phone. Can also be
 - Manananggal (flying)
 
 2. Blocks
-- Ground Platform
+![platform](https://user-images.githubusercontent.com/73202856/96674701-f408ad00-139b-11eb-915d-7a226e81df46.png)
 
 3. Ambient (Background)
-- Country Field
+-Country/Rural
+![1_game_background](https://user-images.githubusercontent.com/73202856/96674854-39c57580-139c-11eb-80e2-e6ee964b7eda.png)
+
 - Forest
+![2_game_background](https://user-images.githubusercontent.com/73202856/96674931-637e9c80-139c-11eb-82a6-9ade7dd222be.png)
+
 - Cemetery
+![3_game_background](https://user-images.githubusercontent.com/73202856/96674962-73967c00-139c-11eb-9084-e0cb2ab05f62.png)
+
 
 4. Others
 - Moving Platform
