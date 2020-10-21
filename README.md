@@ -24,6 +24,23 @@ Noy Pilegro is the main character of the story where he fights for his loved one
 
 ![ghost](https://user-images.githubusercontent.com/73202856/96667092-f6aed680-138a-11eb-8b0b-89c8d3ec7427.png)
 
+# Story
+Noy Pilegro is happily living with his family inside their peaceful town when sudden incidents of a missing person starts occurring. Because Noy was faithful with the Church, he was tasked to investigate how those people disappeared. Noy discovered that hostile entities was involved in the incident for he had experienced it too when he was lost in the forest searching for them, but he got back his way because he turned his T-shirt inside out knowing that it was told by his Father to do so when you get lost.
+
+# Theme
+This game is about bravery and adventure into the unknown. There will be action, rewarding moments and grief as the story progresses. Each stage progression will make the player stronger and wiser.
+
+# Gameplay
+This game is about bravery and adventure into the unknown. There will be action, rewarding moments and grief as the story progresses. Each stage progression will make the player stronger and wiser.
+
+* Goal: Rescue your loved ones. Gameplay(short term): Defeat the enemies or follow friendlies’ instructions to advance to the next level.
+* User Skills: Click “A” to run left, “D” to run right and “W” to jump. Click “left mouse button” for the attack.
+* Items and Food: Loot items to gain advantage and eat food to get back hp.
+* Progression and Challenge - difficulty will advance in each level, in order to compensate you must use the correct weapon for the specific enemy but if you don’t have you can strategize.
+* Losing: Losing conditions: Running out of lives, falling off the screen.
+
+
+
 Most of the mp3 and ogg assets are downloaded from opengameart.org, its nice if you visit it.
 Wav assets was created and are exported from bxfr sound app.
 All codes are based from our labwork lessons "Zenva Runner" Phaser2.
