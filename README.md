@@ -48,10 +48,24 @@ This is a 2D platformer game with a colorful design. Every stage will be colorfu
 # Technical Description
 The game will be Mobile Cross-Platform: iOS, Android, Windows Phone. Can also be played in PCs using emulators.
 
-Controls - Clicking "F" for attack along with, left arrow key movement and right arrow key movement for bullet direction. Also use “W” for jumping.
+Controls
+- "F" key + left arrow key = west bullet direction
+- "F" key + right arrow key = east bullet direction
+- "F" key + up arrow key = north bullet direction
+- "F" key + down arrow key = south bullet direction
+- left arrow key = move left
+- right arrow key = move right
+- "W" key = jump
 
 * Fonts:
-- shortStack.png and shortStack.xml
+- shortstack
+
+![shortStack](https://user-images.githubusercontent.com/73202856/96670616-56f54680-1392-11eb-8dbb-1498c85aa721.png)
+
+- minecraftia
+
+![minecraftia](https://user-images.githubusercontent.com/73202856/96670663-7ab88c80-1392-11eb-90da-68fe9c03d3be.png)
+
 - Rayman Adventures (logo font)
 
 * Audio/Music:
