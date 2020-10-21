@@ -25,33 +25,30 @@ Noy Pilegro is the main character of the story where he fights for his loved one
 ![ghost](https://user-images.githubusercontent.com/73202856/96667092-f6aed680-138a-11eb-8b0b-89c8d3ec7427.png)
 
 # Story
-Noy Pilegro is happily living with his family inside their peaceful town when sudden incidents of a missing person starts occurring. Because Noy was faithful with the Church, he was tasked to investigate how those people disappeared. Noy discovered that hostile entities was involved in the incident for he had experienced it too when he was lost in the forest searching for them, but he got back his way because he turned his T-shirt inside out knowing that it was told by his Father to do so when you get lost.
+Noy Pilegro is happily living with his family inside their peaceful town when sudden incidents of a missing person starts occurring. Because Noy was faithful with the Church, he was tasked to investigate how those people disappeared. Noy discovered that hostile entities was involved in the incident for he had experienced it too when he was lost in the forest searching for them, now he has to escape or he will be trapped in the entities' world.
 
 # Theme
-This game is about bravery and adventure into the unknown. There will be action, rewarding moments and grief as the story progresses. Each stage progression will make the player stronger and wiser.
+This game is about bravery and adventure into the unknown. There will be action, rewarding moments and wise use of the environment. Each stage progression will make the player stronger and wiser.
 
 # Gameplay
-This game is about bravery and adventure into the unknown. There will be action, rewarding moments and grief as the story progresses. Each stage progression will make the player stronger and wiser.
+This game is about bravery and adventure into the unknown. There will be action, rewarding moments and wise use of the environment. Each stage progression will make the player stronger and wiser.
 
-* Goal: Rescue your loved ones. Gameplay(short term): Defeat the enemies or follow friendlies’ instructions to advance to the next level.
-* User Skills: Click “A” to run left, “D” to run right and “W” to jump. Click “left mouse button” for the attack.
-* Items and Food: Loot items to gain advantage and eat food to get back hp.
-* Progression and Challenge - difficulty will advance in each level, in order to compensate you must use the correct weapon for the specific enemy but if you don’t have you can strategize.
-* Losing: Losing conditions: Running out of lives, falling off the screen.
+* Goal: Escape through the portal. Gameplay(short term): Find a way to get into the portal because it is placed in a tricky position.
+* User Skills: Click “left arrow key” to run left, “right arrow key” to run right and “W” to jump. Click “F” along with the arrow key buttons for the attack and its direction.
+* Progression and Challenge - difficulty will advance in each level, in order to compensate you must use the environment to your advantage.
+* Losing: Losing conditions; Hit by enemies or get too close.
 
 # Art Style
 This is a 2D platformer game with a colorful design. Every stage will be colorful but also depends on the scenario of each stage, sometimes very attractive sometimes it’s scary but will still have high quality color design.
 
 # Music and Sound
 * The music will have adventure-like theme and may switch into scary or adventurer themes depending on the stage.
-* Death sound for negative feedback when player is dead and Goal Achieved sound when player finishes a stage.
-* Players will experience scary music when inside a boss stage.
-* In-game music will depend if the stage is scary, mysterious, thrilling or adventuristic.
+* Death sound for negative feedback when player is dead and Stage High Scoring when player finishes a stage.
 
 # Technical Description
 The game will be Mobile Cross-Platform: iOS, Android, Windows Phone. Can also be played in PCs using emulators.
 
-Controls - Clicking mouse for attack, “A”, “D” and “W” for mobility. You can also interact with weapons for attack use and dialogues for strategy use.
+Controls - Clicking "F" for attack along with, left arrow key, right arrow key for bullet direction and “W” for mobility.
 
 * Fonts:
 - shortStack.png and shortStack.xml
