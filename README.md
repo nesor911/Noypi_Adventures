@@ -10,7 +10,7 @@ This game design document describes the details for a multi-platform based 2D si
 # Characters
 Noy Pilegro is the main character of the story where he fights for his loved ones and for his town against the monsters lurking in the shadows.
 
-[NoyPilegro](https://user-images.githubusercontent.com/73202856/96665089-ae8db500-1386-11eb-816f-501ad2f9adab.png)
+![NoyPilegro](https://user-images.githubusercontent.com/73202856/96665089-ae8db500-1386-11eb-816f-501ad2f9adab.png)
 
 * Manananggal is scary, often hideous, usually depicted as female, and always capable of severing its upper torso and sprouting huge bat-like wings to fly. Manananggal can be killed by bullets or jumping on their head (will bounce on the head).
 
