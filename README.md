@@ -39,6 +39,33 @@ This game is about bravery and adventure into the unknown. There will be action,
 * Progression and Challenge - difficulty will advance in each level, in order to compensate you must use the correct weapon for the specific enemy but if you don’t have you can strategize.
 * Losing: Losing conditions: Running out of lives, falling off the screen.
 
+# Art Style
+This is a 2D platformer game with a colorful design. Every stage will be colorful but also depends on the scenario of each stage, sometimes very attractive sometimes it’s scary but will still have high quality color design.
+
+# Music and Sound
+* The music will have adventure-like theme and may switch into scary or adventurer themes depending on the stage.
+* Death sound for negative feedback when player is dead and Goal Achieved sound when player finishes a stage.
+* Players will experience scary music when inside a boss stage.
+* In-game music will depend if the stage is scary, mysterious, thrilling or adventuristic.
+
+# Technical Description
+The game will be Mobile Cross-Platform: iOS, Android, Windows Phone. Can also be played in PCs using emulators.
+
+Controls - Clicking mouse for attack, “A”, “D” and “W” for mobility. You can also interact with weapons for attack use and dialogues for strategy use.
+
+* Fonts:
+shortStack.png and shortStack.xml
+Rayman Adventures (logo font)
+
+* Audio/Music:
+1. Adventure.mp3 and Adventure.ogg
+2. AdventureHO2.mp3 and AdventureHO2.ogg
+3. epic loop.mp3 and epic loop.ogg
+4. Superhero_SuperHero_original_no_Intro.mp3 and SuperHero_original_no_Intro.ogg
+5. Scary-Monster.mp3 and Scary-Monster.ogg
+6. Dark Rooms and Scary Things - isaiah658_1.mp3 and Dark Rooms and Scary Things - isaiah658_1.ogg
+
+* Graphics:
 
 
 Most of the mp3 and ogg assets are downloaded from opengameart.org, its nice if you visit it.
