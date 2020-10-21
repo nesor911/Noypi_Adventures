@@ -118,7 +118,7 @@ The game will be Mobile Cross-Platform: iOS, Android, Windows Phone. Can also be
 
 - Bullet
 
-![bullet](https://user-images.githubusercontent.com/73202856/96675360-50b89780-139d-11eb-8195-9887bd453e6a.png)
+   ![bullet](https://user-images.githubusercontent.com/73202856/96675360-50b89780-139d-11eb-8195-9887bd453e6a.png)
 
 - Coin
 
