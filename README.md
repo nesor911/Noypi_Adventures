@@ -66,12 +66,16 @@ The game will be Mobile Cross-Platform: iOS, Android, Windows Phone. Can also be
 - Rayman Adventures (logo font)
 
 * # Audio/Music:
-- Adventure.mp3 and Adventure.ogg
-- AdventureHO2.mp3 and AdventureHO2.ogg
-- epic loop.mp3 and epic loop.ogg
-- Superhero_SuperHero_original_no_Intro.mp3 and SuperHero_original_no_Intro.ogg
-- Scary-Monster.mp3 and Scary-Monster.ogg
-- Dark Rooms and Scary Things - isaiah658_1.mp3 and Dark Rooms and Scary Things - isaiah658_1.ogg
+- Stage 1: Adventure.mp3 and Adventure.ogg
+- Stage 2: Dark Rooms and Scary Things - isaiah658_1.mp3 and Dark Rooms and Scary Things - isaiah658_1.ogg
+- Stage 3: AdventureHO2.mp3 and AdventureHO2.ogg
+- Pickup Coin Sound
+- Character Death Sound
+- Ghost Sound
+- Hurt Sound
+- Jump Sound
+- Mananggal Sound
+- Tikbalang Footstep Sound
 
 * # Graphics:
 1. Characters
