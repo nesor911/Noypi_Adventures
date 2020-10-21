@@ -48,7 +48,7 @@ This is a 2D platformer game with a colorful design. Every stage will be colorfu
 # Technical Description
 The game will be Mobile Cross-Platform: iOS, Android, Windows Phone. Can also be played in PCs using emulators.
 
-Controls - Clicking "F" for attack along with, left arrow key, right arrow key for bullet direction and “W” for mobility.
+Controls - Clicking "F" for attack along with, left arrow key movement and right arrow key movement for bullet direction. Also use “W” for jumping.
 
 * Fonts:
 - shortStack.png and shortStack.xml
