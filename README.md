@@ -81,10 +81,15 @@ The game will be Mobile Cross-Platform: iOS, Android, Windows Phone. Can also be
 - Tikbalang Footstep Sound
 
 * # Graphics:
+
 1. Characters
+
 1.1 Hero
+
 - Noy Pilegro (idle, running, jumping)
+
 1.2 Others
+
 - Ghost (floating)
 - Tikbalang (walking)
 - Manananggal (flying)
